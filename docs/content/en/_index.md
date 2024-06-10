@@ -2,7 +2,9 @@
 title: The world’s fastest framework for building websites
 date: 2017-03-02T12:00:00-05:00
 features:
-  - heading: Blistering Speed
+
+
+  - heading: YO MOMMA
     image_path: /images/icon-fast.svg
     tagline: What's modern about waiting for your site to build?
     copy: Hugo is the fastest tool of its kind. At <1 ms per page, the average site builds in less than a second.
